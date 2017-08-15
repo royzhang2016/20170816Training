@@ -1,0 +1,68 @@
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\csc.exe
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\csc.exe.config
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\csc.rsp
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\csi.exe
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\csi.rsp
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\System.AppContext.dll
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\System.Collections.Immutable.dll
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\System.IO.FileSystem.dll
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\vbc.exe
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\vbc.exe.config
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\vbc.rsp
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\VBCSCompiler.exe
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\VBCSCompiler.exe.config
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\OutlookWebAddIn1Web.dll.config
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\OutlookWebAddIn1Web.dll
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\OutlookWebAddIn1Web.pdb
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\obj\Debug\OutlookWebAddIn1Web.csprojResolveAssemblyReference.cache
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\obj\Debug\OutlookWebAddIn1Web.dll
+E:\OneDrive - Microsoft\Workspace\ROSS\06. ROSS2017051801389543\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\obj\Debug\OutlookWebAddIn1Web.pdb
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\csc.exe
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\csc.exe.config
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\csc.rsp
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\csi.exe
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\csi.rsp
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\System.AppContext.dll
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\vbc.exe
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\vbc.exe.config
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\vbc.rsp
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\OutlookWebAddIn1Web.dll.config
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\OutlookWebAddIn1Web.dll
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\OutlookWebAddIn1Web.pdb
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\obj\Debug\OutlookWebAddIn1Web.csprojResolveAssemblyReference.cache
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\obj\Debug\OutlookWebAddIn1Web.dll
+C:\Users\roxi\Desktop\Sample_Code\Sample1\OutlookWebAddIn1\OutlookWebAddIn1Web\obj\Debug\OutlookWebAddIn1Web.pdb
