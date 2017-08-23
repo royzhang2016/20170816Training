@@ -43,7 +43,7 @@
       </DesktopSettings>
     </Form>
   </FormSettings>
-  <Permissions>ReadWriteItem</Permissions>
+  <Permissions>ReadWriteMailbox</Permissions>
   <Rule xsi:type="RuleCollection" Mode="Or">
     <Rule xsi:type="ItemIs" ItemType="Message" FormType="Edit" />
   </Rule>
@@ -65,13 +65,52 @@
             <ExtensionPoint xsi:type="Events">
               <Event Type="ItemSend" FunctionExecution="synchronous" FunctionName="validateSubjectAndCC" />
             </ExtensionPoint>
+            <ExtensionPoint xsi:type="MessageComposeCommandSurface">
+              <OfficeTab id="TabDefault">
+                <Group id="msgReadDemoGroup">
+                  <Label resid="groupLabel" />
+                  <!-- Task pane button -->
+                  <Control xsi:type="Button" id="msgReadOpenPaneButton">
+                    <Label resid="paneReadButtonLabel" />
+                    <Supertip>
+                      <Title resid="paneReadSuperTipTitle" />
+                      <Description resid="paneReadSuperTipDescription" />
+                    </Supertip>
+                    <Icon>
+                      <bt:Image size="16" resid="green-icon-16" />
+                      <bt:Image size="32" resid="green-icon-32" />
+                      <bt:Image size="80" resid="green-icon-80" />
+                    </Icon>
+                    <Action xsi:type="ExecuteFunction">
+                      <FunctionName>buttonClick</FunctionName>
+                    </Action>
+                  </Control>
+                </Group>
+              </OfficeTab>
+            </ExtensionPoint>
           </DesktopFormFactor>
         </Host>
       </Hosts>
       <Resources>
+        <bt:Images>
+          <!-- Green icon -->
+          <bt:Image id="green-icon-16" DefaultValue="https://appcommandicons.blob.core.windows.net/images/taskpane_16x.png" />
+          <bt:Image id="green-icon-32" DefaultValue="https://appcommandicons.blob.core.windows.net/images/taskpane_32x.png" />
+          <bt:Image id="green-icon-80" DefaultValue="https://appcommandicons.blob.core.windows.net/images/taskpane_80x.png" />
+        </bt:Images>
         <bt:Urls>
           <bt:Url id="functionFile" DefaultValue="https://localhost:44378/Functions/FunctionFile.html"/>
         </bt:Urls>
+        <bt:ShortStrings>
+          <bt:String id="groupLabel" DefaultValue="Outlook Add-in Sample" />
+          <!-- Read mode -->
+          <bt:String id="paneReadButtonLabel" DefaultValue="Make EWS Request" />
+          <bt:String id="paneReadSuperTipTitle" DefaultValue="Make Exchange Web Service Request" />
+        </bt:ShortStrings>
+        <bt:LongStrings>
+          <!-- Read mode -->
+          <bt:String id="paneReadSuperTipDescription" DefaultValue="Your add-in loaded successfully. Click here to make an Exchange Web Service request." />
+        </bt:LongStrings>
       </Resources>
     </VersionOverrides>
   </VersionOverrides>
